@@ -28,8 +28,6 @@ HTML + CSS + JavaScript
 
 jQuery：实现前端交互（如轮播图、表单验证）
 
-Bootstrap 4：响应式布局与界面美化
-
 TinyMCE：富文本编辑器（商品描述）
 
 ✅ 部署环境：

@@ -2,7 +2,7 @@
 一个基于 Django 的生鲜电商网站，包含用户管理、商品展示、购物车、订单、支付等功能。
 
 # 技术栈:
-✅ 后端框架：
+一、 后端框架：
 Django 4.2：主框架，处理业务逻辑、路由、视图、模板、ORM 等功能
 
 Celery：处理异步任务（如邮件发送）
@@ -15,22 +15,22 @@ Haystack + Whoosh：全文搜索框架
 
 SMTP (QQ邮箱)：邮件服务发送账号激活邮件
 
-✅ 数据库：
+二、 数据库：
 MySQL 8+：关系型数据库，用于存储用户、商品、订单等核心数据
 
-✅ 静态资源 / 存储：
+三 静态资源存储服务器：
 MinIO：对象存储服务，用于上传商品图片等文件（兼容 S3 协议）
 
 本地静态资源：通过 STATICFILES_DIRS 管理前端静态文件
 
-✅ 前端：
+四 前端：
 HTML + CSS + JavaScript
 
 jQuery：实现前端交互（如轮播图、表单验证）
 
 TinyMCE：富文本编辑器（商品描述）
 
-✅ 部署环境：
+五、 部署环境：
 操作系统：Ubuntu
 
 Web服务器：uWSGI
@@ -41,7 +41,7 @@ Web服务器：uWSGI
 
 
 
-后端
+
 1.登录
 ![1](https://github.com/user-attachments/assets/fc7ae92b-68a9-443c-a315-629c32bb0db9)
 

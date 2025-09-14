@@ -54,7 +54,7 @@ Web服务器：uWSGI
 ![屏幕截图 2025-09-14 115819](https://github.com/user-attachments/assets/b2f20410-ee1d-425d-a265-1232c49297e3)
 
 
-
+九、运行截图
 
 1.登录
 ![1](https://github.com/user-attachments/assets/fc7ae92b-68a9-443c-a315-629c32bb0db9)

@@ -40,6 +40,20 @@ Web服务器：uWSGI
 进程守护：Supervisor
 
 
+六、Web开发流程
+
+![屏幕截图 2025-09-14 115717](https://github.com/user-attachments/assets/2059f7e9-000a-45a9-8ac6-d5958d95dbe0)
+
+七、页面图
+
+![屏幕截图 2025-09-14 115801](https://github.com/user-attachments/assets/ee78a67c-fb11-418b-a4b9-41226bd9a506)
+
+
+八、功能概览图
+
+![屏幕截图 2025-09-14 115819](https://github.com/user-attachments/assets/b2f20410-ee1d-425d-a265-1232c49297e3)
+
+
 
 
 1.登录
